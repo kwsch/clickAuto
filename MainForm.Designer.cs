@@ -173,15 +173,15 @@ namespace clickAuto
             0,
             0});
             this.nud_sleep.Minimum = new decimal(new int[] {
-            10,
+            2,
             0,
             0,
             0});
             this.nud_sleep.Name = "nud_sleep";
             this.nud_sleep.Size = new System.Drawing.Size(57, 20);
-            this.nud_sleep.TabIndex = 12;
+            this.nud_sleep.TabIndex = 2;
             this.nud_sleep.Value = new decimal(new int[] {
-            10,
+            5,
             0,
             0,
             0});
